@@ -203,10 +203,10 @@ section{
 
 .home .contact{
     position: relative;
-    top: 5rem;
+    top: 10rem;
     border-radius: .5rem;
     box-shadow: var(--box-shadow);
-    padding:1rem;
+    padding:1rem 3.5rem;
 }
 
 .home .share a{
