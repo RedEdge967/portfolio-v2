@@ -201,14 +201,6 @@ section{
     padding:1rem;
 }
 
-.home .contact{
-    position: relative;
-    top: 10rem;
-    border-radius: .5rem;
-    box-shadow: var(--box-shadow);
-    padding:1rem 3.5rem;
-}
-
 .home .share a{
     height: 5rem;
     width: 5rem;
