@@ -1,4 +1,4 @@
-# RedEdge967.github.io
+# portfolio-v3
 - Neumorphism UI inspired personal portfolio website template
 <p align="center">
 <img src="image/favicon.png" height="30%" width="30%">
