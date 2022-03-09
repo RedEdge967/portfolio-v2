@@ -1,4 +1,4 @@
-# portfolio-v3
+# portfolio-v2
 - Neumorphism UI inspired v3 and my present personal portfolio website written in html, css and javascript
 <p align="center">
 <img src="image/logo.png" height="30%" width="30%">
